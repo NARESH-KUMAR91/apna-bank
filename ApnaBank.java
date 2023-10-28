@@ -35,7 +35,6 @@ class BankAccounts{
     }
     
 
-    
     public String getUsername() {
 		return username;
 	}
